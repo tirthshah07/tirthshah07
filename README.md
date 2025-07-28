@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1000/1*s80xLYgbrwbXgEuuDBR5mw.jpeg)
+![MasterHead](https://i.imgur.com/efqjRkN.png)
 
 <h1 align="center">Hi 👋, I'm Tirth Shah</h1>
 <h3 align="center">Full Stack Developer | Angular • Node.js | 2+ Yrs Experience</h3>
