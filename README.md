@@ -1,4 +1,4 @@
-![MasterHead](https://i.imgur.com/efqjRkN.png)
+![MasterHead](Full_stack_tirth.png)
 
 <h1 align="center">Hi 👋, I'm Tirth Shah</h1>
 <h3 align="center">Full Stack Developer | Angular • Node.js | 2+ Yrs Experience</h3>
